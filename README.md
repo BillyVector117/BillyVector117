@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BillyVector117
+- 👋 Hi, I’m Billy Rodríguez M.! - @BillyVector117
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning all about Frontend
+- 🌱 I’m currently learning all about Web development
 - 💞️ I’m looking to collaborate on any frontend mentor
 - 📫 How to reach me: billyvecuss@hotmail.com - 5524206617
 
